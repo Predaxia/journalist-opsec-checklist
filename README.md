@@ -81,4 +81,4 @@ We [refuse to recommend](https://predaxia.com/tools-we-refuse-to-affiliate-with/
  
 ---
  
-MIT License
+© 2026 Predaxia — predaxia.com
