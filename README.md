@@ -2,7 +2,7 @@
  
 A practical, field-tested operational security checklist for journalists, NGO workers, lawyers, military families, and anyone operating in environments where digital privacy is not optional.
  
-Maintained by [Predaxia](https://predaxia.com) — privacy for people who have something to lose.
+Maintained by [Predaxia](https://predaxia.com) - privacy for people who have something to lose.
  
 ---
  
@@ -19,7 +19,7 @@ Maintained by [Predaxia](https://predaxia.com) — privacy for people who have s
  
 ## Before You Travel (72 hours)
  
-- [ ] Prepare a clean travel device — not a factory reset, a [properly prepared device](https://predaxia.com/travel-phone-setup-clean-device/)
+- [ ] Prepare a clean travel device (not a factory reset), a [properly prepared device](https://predaxia.com/travel-phone-setup-clean-device/)
 - [ ] Enable full-disk encryption (FileVault on Mac, BitLocker on Windows, LUKS on Linux)
 - [ ] Set a strong alphanumeric password (12+ characters) — not biometric only
 - [ ] Back up your primary device to encrypted storage, then leave it at home
@@ -32,19 +32,19 @@ Maintained by [Predaxia](https://predaxia.com) — privacy for people who have s
 - [ ] Default messaging: [Signal with disappearing messages](https://predaxia.com/signal-vs-protonmail-vs-wire/) enabled
 - [ ] Never contact sources from a work device, work email, or work network
 - [ ] Understand that [email metadata exposes more than content](https://predaxia.com/journalist-arrested-because-of-email/)
-- [ ] Strip EXIF data from all photos before sending — [a single photo got a source arrested](https://predaxia.com/single-photo-got-source-arrested/)
-- [ ] Use a VPN you trust — we recommend [Mullvad](https://mullvad.net) or [Proton VPN](https://predaxia.com/proton-vpn-review-2026/)
+- [ ] Strip EXIF data from all photos before sending [a single photo got a source arrested](https://predaxia.com/single-photo-got-source-arrested/)
+- [ ] Use a VPN you trust, we recommend [Mullvad](https://mullvad.net) or [Proton VPN](https://predaxia.com/proton-vpn-review-2026/)
  
 ## Device Security
  
 - [ ] Check for [signs of monitoring](https://predaxia.com/is-your-phone-being-monitored/) if in a domestic dispute
 - [ ] Understand that [Pegasus requires no user interaction](https://predaxia.com/pegasus-doesnt-need-you-to-click/)
 - [ ] Separate identities: work device, personal device, operational device — [never mix them](https://predaxia.com/operational-identity-separation-opsec/)
-- [ ] Know what you are protecting, from whom — [build your threat model](https://predaxia.com/how-to-build-threat-model/)
+- [ ] Know what you are protecting, from whom [build your threat model](https://predaxia.com/how-to-build-threat-model/)
  
 ## If Your Device Is Seized
  
-- [ ] Do not consent to a search unless legally required — [know the law](https://predaxia.com/laptop-border-search-warrant/)
+- [ ] Do not consent to a search unless legally required [know the law](https://predaxia.com/laptop-border-search-warrant/)
 - [ ] Know what they [extract in 6 hours](https://predaxia.com/device-seized-what-they-can-extract/) with forensic tools
 - [ ] If in an NGO context, follow [field seizure protocol](https://predaxia.com/ngo-workers-phone-searched-border/)
  
