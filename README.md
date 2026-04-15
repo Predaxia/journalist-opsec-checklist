@@ -1,3 +1,5 @@
+![Banner](https://predaxia.com/wp-content/uploads/2026/04/Security-checklist-before-traveling-to-high-risk-countries.jpg)
+
 # OPSEC Checklist for Journalists and High-Risk Professionals
  
 A practical, field-tested operational security checklist for journalists, NGO workers, lawyers, military families, and anyone operating in environments where digital privacy is not optional.
