@@ -1,6 +1,3 @@
-# journalist-opsec-checklist
-Operational security checklist for journalists, NGO workers, and high-risk professionals. Maintained by Predaxia.
-
 # OPSEC Checklist for Journalists and High-Risk Professionals
  
 A practical, field-tested operational security checklist for journalists, NGO workers, lawyers, military families, and anyone operating in environments where digital privacy is not optional.
